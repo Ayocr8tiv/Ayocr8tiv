@@ -1,5 +1,6 @@
 # Hi, i'm Ayokunle Software Developer 😎✌️
 # Website ===> https://ayokunle-code-evo.onrender.com/
+# Linkedln Profile ===> https://www.linkedin.com/in/ayokunle-oloidi-a57718357/
 
 
 # 💻Tech Stack
